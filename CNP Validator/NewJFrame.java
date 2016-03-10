@@ -9,7 +9,7 @@ import java.util.GregorianCalendar;
 
 /**
  *
- * @author Student
+ * @author Marrusian
  */
 public class NewJFrame extends javax.swing.JFrame {
 
