@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Student
+ * @author Marrusian
  */
 public class CNPApp {
 
@@ -21,9 +21,3 @@ public class CNPApp {
          
     }
 }
-
-/*
-Tema:
-    1) Calculator (operatii de baza)
-    2) Aplicatie care sa afiseze intr-un JTable datele unei persoane introduse de la tastatura
-*/
